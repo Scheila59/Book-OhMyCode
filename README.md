@@ -14,5 +14,5 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - [x] Chapitres 1 et 2 terminés
 - [x] Projet bannière (Chapitre 3)
 - [x] Projet abonnez-vous (Chapitre 3)
-- [ ] Projet alterner entre dark mode et light mode (Chapitre 3)
+- [x] Projet alterner entre dark mode et light mode (Chapitre 3)
 - [ ] Chapitres suivants en cours
