@@ -9,10 +9,15 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - `initiation/` : Répertoire des exercices d'initiation
 - `1-banniere/` : Projet bannière du chapitre 3
 - `2-abonne/` : Projet abonnez-vous du chapitre 3
+- `3-dark mode/` : Projet alterner entre dark mode et light mode
+- `4-burgerMenu/` : Projet menu burger responsive
 
 ## Progression
 - [x] Chapitres 1 et 2 terminés
-- [x] Projet bannière (Chapitre 3)
-- [x] Projet abonnez-vous (Chapitre 3)
-- [x] Projet alterner entre dark mode et light mode (Chapitre 3)
+- [x] Projet 1 bannière (Chapitre 3)
+- [x] Projet 2 abonnez-vous (Chapitre 3)
+- [x] Projet 3 alterner entre dark mode et light mode (Chapitre 3)
+- [x] Projet 4 menu burger responsive (Chapitre 3)
+- [x] Projet 5 Fenêtre modal au défilement (Chapitre 3)
+- [x] Projet 6 Toast Notification (Chapitre 3)
 - [ ] Chapitres suivants en cours
