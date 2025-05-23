@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+body {
+  font-size: 2 rem; /* soit 14px */
+  font-family: arial;
+  color: white;
+}
+.banniere-titre{
+  width: 45%;
+  display: flex;
+  justify-content: space-evenly;
+}
+.container {
+height: 100vh;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+background-color: #2c3c54;
+}
+.augmenter, .diminuer{
+  width: 40px;
+  height: 40px;
+  margin: 10px 0;
+  background-color: #1e2939;
+  color: white;
+  border-radius: 100%;
+  border: 1px solid #0f1a2b;  
+}
+.switch {
+  width: 90px;
+  height: 30px;
+  background-color: #1e2939;
+  border-radius: 15px;
+  position: relative; /* Permet de positionner l'icone en absolute*/
+  border: 1px solid #1e2939;
+  padding: 1rem;
+
+    & i {
+      position: absolute;/*Par rapport à la DIV switch*/
+      color: #ffd363;
+      top: 7px;
+      right: 10px;
+  }
+}
+.btn {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;/*Par rapport à la DIV switch*/
+  top: 1px;
+  left: 1px;
+}
+.btn-change{
+  right:-1px;
+  left: auto; /*necessaire pour ne pas prendre en compte la valeur left*/
+}
+.icone-change{
+  left: 10px;
+}
+.switch-change{
+  background-color: #61b3ff;
+  border: 1px solid #61b3ff;
+}
+.container-change{
+  background-color: #cbe6ff;
+}
+.button-change{
+  background-color: #61b3ff;
+  border: 1px solid #61b3ff;
+  color: #0f1a2b;
+}
