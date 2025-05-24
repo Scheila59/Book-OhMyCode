@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body {
+    font-size: 2 rem; /* soit 14px */
+    font-family: arial;
+    color: white;
+}
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1E2337;
+}
+.question{
+    display: flex; /*Permet de postionner <p> et <i>*/
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid #777;
+}
+.reponse {
+    color: #777;
+    background-color: #eee;
+    padding: 3rem;
+    display: none;
+}
+.visible{
+    display: block;
+}
