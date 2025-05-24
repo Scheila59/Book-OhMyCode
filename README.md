@@ -20,5 +20,6 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - [x] Projet 4 menu burger responsive (Chapitre 4)
 - [x] Projet 5 Fenêtre modal au défilement (Chapitre 4)
 - [x] Projet 6 Toast Notification (Chapitre 4)
-- [ ] Projet 7 Questions fréquentes avec 'Accordéon' (Chapitre 5)
+- [x] Projet 7 Questions fréquentes avec 'Accordéon' (Chapitre 5)
+- [ ] Projet 8 Fiche produit (Chapitre 5)
 - [ ] Chapitres suivants en cours
