@@ -22,5 +22,6 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - [x] Projet 6 Toast Notification (Chapitre 4)
 - [x] Projet 7 Questions fréquentes avec 'Accordéon' (Chapitre 5)
 - [x] Projet 8 Fiche produit (Chapitre 5)
-- [ ] Projet 9 Blog (Chapitre 5)
+- [x] Projet 9 Blog (Chapitre 5)
+- [ ] Projet 10 Formulaire (Chapitre 6)
 - [ ] Chapitres suivants en cours
