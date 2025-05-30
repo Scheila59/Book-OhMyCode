@@ -11,6 +11,12 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - `2-abonne/` : Projet abonnez-vous du chapitre 3
 - `3-dark mode/` : Projet alterner entre dark mode et light mode
 - `4-burgerMenu/` : Projet menu burger responsive
+- `5-modalScroll/` : Projet fenêtre modale au défilement
+- `6-toast/` : Projet toast notification
+- `7-FAQ/` : Projet questions fréquentes avec 'Accordéon'
+- `8-ficheProduit/` : Projet fiche produit interactif
+- `9-posts/` : Projet de blog dynamique avec affichage d'articles 
+- `10-formulaire/` : Projet de formulaire interactif (Chapitre 6)
 
 ## Progression
 - [x] Chapitres 1 et 2 terminés
@@ -23,5 +29,5 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - [x] Projet 7 Questions fréquentes avec 'Accordéon' (Chapitre 5)
 - [x] Projet 8 Fiche produit (Chapitre 5)
 - [x] Projet 9 Blog (Chapitre 5)
-- [ ] Projet 10 Formulaire (Chapitre 6)
+- [x] Projet 10 Formulaire (Chapitre 6)
 - [ ] Chapitres suivants en cours
