@@ -17,6 +17,7 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - `8-ficheProduit/` : Projet fiche produit interactif
 - `9-posts/` : Projet de blog dynamique avec affichage d'articles 
 - `10-formulaire/` : Projet de formulaire interactif (Chapitre 6)
+- `11-todoList/` : Projet Todo List (Chapitre 6)
 
 ## Progression
 - [x] Chapitres 1 et 2 terminés
@@ -30,4 +31,5 @@ Ce dépôt contient tous les exercices et le code correspondant au livre "Oh My 
 - [x] Projet 8 Fiche produit (Chapitre 5)
 - [x] Projet 9 Blog (Chapitre 5)
 - [x] Projet 10 Formulaire (Chapitre 6)
+- [x] Projet 11 Todo List (Chapitre 6)
 - [ ] Chapitres suivants en cours
